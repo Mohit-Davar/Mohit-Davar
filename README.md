@@ -5,7 +5,7 @@
 - - - -
 <h1>Skills</h1>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ejs" height="40" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
