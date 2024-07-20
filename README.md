@@ -52,7 +52,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="" src="https://media.licdn.com/dms/image/D4D12AQEZtPCuttD_iQ/article-cover_image-shrink_423_752/0/1697453573297?e=1721260800&v=beta&t=wlQG57NYaMkgvr3A1-O-SbFa9ZCTkFd9zBMIckniaxs"  />
+  <img height="" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"  />
 </div>
 
 ###
