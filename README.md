@@ -5,6 +5,12 @@
 - - - -
 <h1>Skills</h1>
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=yarn" height="40" alt="yarn"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
